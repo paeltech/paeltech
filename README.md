@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @paeltech
 - 👀 I’m interested in web
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on a fintech product. MOre details over email
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on a fintech product. More details over email
+- 📫 How to reach me pmandele9@gmail.com
 
 <!---
 paeltech/paeltech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
